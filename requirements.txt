@@ -1,0 +1,7 @@
+numpy>=1.22
+pandas>=1.4
+scipy>=1.8
+h5py>=3.6
+astropy>=5.1
+tqdm>=4.64
+cosmic-variance>=0.1.6
