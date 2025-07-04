@@ -1,7 +1,7 @@
 calculate_sigma_cv/.ipynb_checkpoints
 evstats_clustering/evstats/data/*.h5
 evstats_clustering/evstats/data/*.ecsv
-evs_clustering/evs_clustering_demo.ipynb
+evs_clustering_demo.ipynb
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
