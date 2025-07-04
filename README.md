@@ -35,5 +35,5 @@ evs_clustering/
 ├── evs_clustering_demo_minimal.ipynb # Minimal demonstration
 ├── README.md
 └── .gitignore
-
+```
 For completeness, [Lovell et al. 2023](https://academic.oup.com/mnras/article/518/2/2511/6823705) provides a simple introduction to EVS in unclustered environments.
